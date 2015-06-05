@@ -1,0 +1,10 @@
+{
+  "roles": {
+    "one": {
+      "command": "echo hello"
+    },
+    "two": {
+      "command": "echo goodbye"
+    }
+  }
+}
